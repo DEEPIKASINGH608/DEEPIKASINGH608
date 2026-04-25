@@ -37,7 +37,7 @@ I am a **2nd Year Computer Science Engineering student**, Full-Stack Developer a
 
 ## 📊 Performance & Impact
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEEPIKASINGH608&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEEPIKASINGH608&show_icons=true&theme=tokyonight&hide=commits,contribs&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPIKASINGH608&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 

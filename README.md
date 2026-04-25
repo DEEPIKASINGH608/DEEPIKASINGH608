@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 Overview
-I am a **2nd Year Computer Science Engineering student** and an aspiring Full-Stack Developer. Currently, I am contributing to **ESP Learning Unlimited** as part of **GSoC 2026**. I am passionate about Open Source, clean architecture, and building user-centric web applications.
+I am a **2nd Year Computer Science Engineering student**, Full-Stack Developer and aspiring AI Engineer Currently, I am contributing to **ESP Learning Unlimited** as part of **GSoC 2026**. I am passionate about Open Source, clean architecture, and building user-centric web applications.
 
-- 🔭 **Current Focus:** Contributing to Open Source and mastering **Next.js 16**.
+- 🔭 **Current Focus:** Contributing to Open Source and mastering **DSA**.
 - ⚙️ **Working on:** Successfully submitted **1 PR** and currently resolving **4 active issues** for GSoC.
 - 📚 **Learning:** Advanced Data Structures in Java and System Design.
 - 💬 **Ask me about:** React, Tailwind CSS, and getting started in Open Source.
@@ -37,12 +37,12 @@ I am a **2nd Year Computer Science Engineering student** and an aspiring Full-St
 
 ## 📊 Performance & Impact
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEEPIKASINGH608&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPIKASINGH608&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPIKASINGH608&theme=tokyonight&hide_border=false" alt="streak-stats" />
 </p>
 
 ---

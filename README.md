@@ -58,10 +58,10 @@ I am a **2nd Year Computer Science Engineering student**, Full-Stack Developer a
 
 ## 🔗 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/anchalsingh06">
+  <a href="https://www.linkedin.com/in/deepikasingh0918">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:anchalsingh19654@gmail.com">
+  <a href="mailto:ds0648775@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

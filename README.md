@@ -11,7 +11,7 @@ I am a **3rd Year Computer Science Engineering student**, Full-Stack Developer a
 
 - 🔭 **Current Focus:** Contributing to Open Source and mastering **DSA**.
 - ⚙️ **Working on:** Successfully submitted **1 PR** for GSoC.
-- 📚 **Learning:** Advanced Data Structures in Java and System Design.
+- 📚 **Learning:** Advanced Data Structures in C++ and System Design.
 - 💬 **Ask me about:** React, Tailwind CSS, and getting started in Open Source.
 
 ---
